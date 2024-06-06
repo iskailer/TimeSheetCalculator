@@ -7,7 +7,7 @@ https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmp
 
 - Com o Tampermonkey instalado, apague o texto padrão e substitua pelo texto abaixo
 
-  '''js
+~~~javascript
 // ==UserScript==
 // @name         CalculatorDoIskailer
 // @version      1.0
@@ -18,4 +18,4 @@ https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmp
 // @require      https://raw.githubusercontent.com/iskailer/TimeSheetCalculator/main/test.js
 // @grant        none
 // ==/UserScript==
-  ''' 
+~~~
